@@ -34,7 +34,7 @@
 
 [![4-comma][images-fig1]](https://astroanimation.me)
 
-Figure 1. Final Design.
+Figure 1. This is the final design along side all reference material used. From left to right: R2-D2 foot model, the final hand model, WALL.E hand model and the prototype TinkerCad model.
 
 <!-- Abstract -->
 ## Abstract
@@ -42,7 +42,7 @@ The goal of this project was to take a traditional wheel appendage and adapt it 
 
 [![4-comma][images-fig2]](https://astroanimation.me)
 
-Figure 2. Flora's Yonkoma Iteration 1; This is the first iteration of the yonkoma comic, it outlines the rough sketches and idea for the main comic, as well as the layout. The comic is meant to be read as; 1. top right, 2. bottom right, 3. top left, 4. bottom left. 
+Figure 2. This was the test model I had roughly put together to "sketch" out my idea. I used a transparent trapazoid to represent R2-D2's foot shape that I needed to keep the design contained within. 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -51,7 +51,7 @@ I started my process by making a rough mock up of my idea in TinkerCad. I initia
 
 [![4-comma][images-fig3]](https://astroanimation.me)
 
-Figure 3. Flora's Yonkoma Iteration 2; This iteration emphasizes the comic art effects of speed lines for motion and cross hatching for shadows.
+Figure 3. I am eternaly grateful for whomever made the WALL.E hand model I referenced in my final. It sped along the design process exponentially by having some kind of baseline to start from.
 
 ## Methodology
 
@@ -59,20 +59,27 @@ There was much time spent on making sure my model didn’t clip through itself w
 
 [![4-comma][images-fig4]](https://astroanimation.me)
 
-Figure 4. Flora's Yonkoma Iteration 3; This iteration experiments with color and color theory. Warm colors are used to show agency while cool colors are used for calmness. Primary colors were used to give the piece a "pop art" type aesthetic.
+Figure 4. After much tweaking, I finished the middle finger. This was a tedious process of making changes, testing and revising. I wanted to ensure the model had the same limitaions as a human hand while still maintaining its mechanical properties.
+
+[![4-comma][images-fig5]](https://astroanimation.me)
+
+Figure 5. I began the process of ploting out where the swiveling finger system would go in the model.
 
 ## Result and Future Work
 I feel that my final result came out quite nicely and closely replicates what I had initially envisioned, despite having very little reference to rely on outside of the WALL.E hand model downloaded. The fingers themselves turned out much longer than I had expected so this adds a bit of an uncanny effect to the design when used as a hand. The design also left enough room in the center for a motorized wheel mechanism, so I’d be curious to see if this could be feasible for use in a robotics project in the future.
 
-[![4-comma][images-fig5]](https://astroanimation.me)
-
-Figure 5. Flora's Yonkoma Itteration 4; This iteration begins the process of adding Flora's flowers to her body. These flowers will then be duplicted and added to the subsequent smaller yonkoma. This process can sometimes be rather tedious.
-
 [![4-comma][images-fig6]](https://astroanimation.me)
+
+Figure 6. This is the completed model.
 
 [![4-comma][images-fig7]](https://astroanimation.me)
 
+Figure 7. Final model with front fingers extended.
+
 [![4-comma][images-fig8]](https://astroanimation.me)
+
+Figure 8. Final model configured into a human hand. Both fingers from the back swivel forward to act as a human pinky and thumb.
+
 
 ## Conclusion
 In conclusion, I would love to further explore this prototype to see if it could become a functional replacement for R2-D2’s current foot setup. I would also like to see if this idea could, in the future, function as a basic 3D print or potential robotics project.
