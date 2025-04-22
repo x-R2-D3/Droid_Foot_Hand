@@ -42,7 +42,7 @@ The goal of this project was to take a traditional wheel appendage and adapt it 
 
 [![4-comma][images-fig2]](https://astroanimation.me)
 
-Figure 2. This was the test model I had roughly put together to "sketch" out my idea. I used a transparent trapazoid to represent R2-D2's foot shape that I needed to keep the design contained within. 
+Figure 2. This was the test model I had roughly put together to "sketch" out my idea. I used a transparent trapezoid to represent R2-D2's foot shape that I needed to keep the design contained within. 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -51,7 +51,7 @@ I started my process by making a rough mock up of my idea in TinkerCad. I initia
 
 [![4-comma][images-fig3]](https://astroanimation.me)
 
-Figure 3. I am eternaly grateful for whomever made the WALL.E hand model I referenced in my final. It sped along the design process exponentially by having some kind of baseline to start from.
+Figure 3. I am eternally grateful for whomever made the WALL.E hand model I referenced in my final. It sped along the design process exponentially by having some kind of baseline to start from.
 
 ## Methodology
 
