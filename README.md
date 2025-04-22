@@ -120,12 +120,12 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[images-fig1]: Final.png
+[images-fig1]: AllItterations.png
 [images-fig2]: Concept.png
 [images-fig3]: WallECad.png
 [images-fig4]: FingerDesign.png
 [images-fig5]: Itteration2.png
-[images-fig6]: AllItterations.png
+[images-fig6]: Final.png
 [images-fig7]: Fingers1.png
 [images-fig8]: Fingers2.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
