@@ -38,7 +38,7 @@ Figure 1. Final Design.
 
 <!-- Abstract -->
 ## Abstract
-This work is titled 'Flora's Yonkoma'. A yonkoma is a four-panel comic that can run up and down or right to left. Yonkoma’s follow “kishōtenketsu”; The first panel sets the scene, the second adds development, the third is the climax, and the fourth shows the effects of the climax.
+The goal of this project was to take a traditional wheel appendage and adapt it to be multi-functional as both a wheel and a human-like hand. In this project I choose to reimagine the “foot” of the droid R2-D2, with the intention to 3D print the final product. 
 
 [![4-comma][images-fig2]](https://astroanimation.me)
 
@@ -47,7 +47,7 @@ Figure 2. Flora's Yonkoma Iteration 1; This is the first iteration of the yonkom
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-The yonkoma I have made is a bit of a parody of a typical yonkoma. This yonkoma features my animated rabbit character, Flora Ven. Flora is a rabbit with multicolored flowers on her fur, and she gets into various different situations, usually of her own accord. In this comic she is seen drawing at a table. The first panel has her casually drawing at the table. In the second panel her drawing becomes more and more intense until in the third panel it appears she is almost battling the drawing itself, complete with comic speed lines and intense blur effects. At the end of the comic, she holds up her artwork exclaiming "I made a yonkoma". The artwork she is holding up ironically contains a smaller drawing of the comic itself, and within that drawing is a smaller drawing of the comic again. This would theoretically continue on into infinity if the viewer’s perception and digital painting software allowed it to. This is what’s referred to as a Droste Effect. It is named after the metal tins of cocoa of the Dutch chocolate maker, which contained a picture within a picture[2].
+I started my process by making a rough mock up of my idea in TinkerCad. I initially had the idea to take this prototype into a CAD program such as AutoCAD or Fusion to further iterate upon but I decided to use Maya instead due to it’s familiarity. In my design, I wanted to keep the same triangular profile as R2-D2’s foot, but I also wanted the foot to be able to “unfold” into a hand. After playing around with my design, I decided to look up some references that were similar to the idea I was going for, and by chance I happened upon someone’s CAD model of the robot WALL.E’s arm. Since the hands for this model were similar to my prototype, I decided to import this model to use as a launching point for my second iteration. I then deconstructed this model and began tweaking various elements, through the manipulation of faces and vertices, to better match my first prototype. I added an additional joint than what was originally in the WALL.E model to better fit with an anatomical human hand.
 
 [![4-comma][images-fig3]](https://astroanimation.me)
 
@@ -55,14 +55,14 @@ Figure 3. Flora's Yonkoma Iteration 2; This iteration emphasizes the comic art e
 
 ## Methodology
 
-When starting this project, research was conducted into what a yonkoma is as well as various comic art styles and effects used in animation and comic strips. To start with, yonkomas are structured differently than your average comic strip. While western culture dictates that comic strips be read left-to-right, the formatting of a yonkoma dictates that it be read from top right down to the bottom right, then again from top left to the bottom left. With this in mind, I have formatted my yonkoma to adhere with these formatting rules, having the comic begin on the right and end on the left. Yonkomas also follows the 'kishōtenketsu' formatting in which 'the narrative unfolds with story elements whose interconnectedness becomes evident near the end of the story'[1].
+There was much time spent on making sure my model didn’t clip through itself while in motion. This involved smoothing edges so they would glide past each other and creating notches in other models where smoothing wasn’t sufficient. My initial plan for this model was for it to be 3D printed, so I tried to keep this in mind when modeling in order to keep the model functional for the physical world. While I was not able to print the model at this time, I am curious to see how it will turn out if I were to try printing it in the future. I started my design with just the center finger, and then proceeded down the finger-joint chain. From here I duplicated the completed finger and tweaked these based on their position in the foot. I then had to design a “pin board” in order to anchor the fingers down and allow for the outer fingers to rotate backwards towards the front of the foot to imitate a human pinky finger and thumb when fully unfolded.
 
 [![4-comma][images-fig4]](https://astroanimation.me)
 
 Figure 4. Flora's Yonkoma Iteration 3; This iteration experiments with color and color theory. Warm colors are used to show agency while cool colors are used for calmness. Primary colors were used to give the piece a "pop art" type aesthetic.
 
 ## Result and Future Work
-The final result contains a mixture of color theory, comic art effects, the Droste Effect, and of course the yonkoma kishōtenketsu format. With the colors, I was aiming for what each color tends to represent emotion wise. Cool colors tend to represent calm while warm colors are active. The image starts out as blue for calmness, then progresses to yellow for caution or alert. It then switches to red to represent alarms going off and chaos. Finally the image goes back to green for contentment and “spring time joy” as Flora’s fur pattern normally contains flowers.
+I feel that my final result came out quite nicely and closely replicates what I had initially envisioned, despite having very little reference to rely on outside of the WALL.E hand model downloaded. The fingers themselves turned out much longer than I had expected so this adds a bit of an uncanny effect to the design when used as a hand. The design also left enough room in the center for a motorized wheel mechanism, so I’d be curious to see if this could be feasible for use in a robotics project in the future.
 
 [![4-comma][images-fig5]](https://astroanimation.me)
 
@@ -75,7 +75,7 @@ Figure 5. Flora's Yonkoma Itteration 4; This iteration begins the process of add
 [![4-comma][images-fig8]](https://astroanimation.me)
 
 ## Conclusion
-In conclusion, the work “Flora’s Yonkoma” is a fun exploration into various art and comic styles used throughout artwork. While the piece itself doesn’t combine these aspects in a new or redefining way, it simply comments on how these aspects and themes can be used together effectively to drive a narrative.
+In conclusion, I would love to further explore this prototype to see if it could become a functional replacement for R2-D2’s current foot setup. I would also like to see if this idea could, in the future, function as a basic 3D print or potential robotics project.
 
 
 <!-- Bibliography -->
