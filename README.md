@@ -84,11 +84,18 @@ Figure 8. Final model configured into a human hand. Both fingers from the back s
 ## Conclusion
 In conclusion, I would love to further explore this prototype to see if it could become a functional replacement for R2-D2’s current foot setup. I would also like to see if this idea could, in the future, function as a basic 3D print or potential robotics project.
 
+[![4-comma][images-fig10]](https://astroanimation.me)
+
+Figure 9. Final model with all parts exploded
+
+[![4-comma][images-fig10]](https://astroanimation.me)
+
+Figure 10. Obligatory Maya Crash Screen
 
 <!-- Bibliography -->
 ## References
 
-
+WALL.E CAD model can be found here: [https://grabcad.com/library/wall-e-hand-1/details?folder_id=6981378](https://grabcad.com/library/wall-e-hand-1/details?folder_id=6981378)
 
 
 <!-- CONTACT -->
@@ -106,7 +113,6 @@ Portfolio Website: [astroanimation.me](https://astroanimation.me)
 
 To Rockstar Energy for keeping me awake
 
-WALL.E CAD model can be found here: [https://grabcad.com/library/wall-e-hand-1/details?folder_id=6981378](https://grabcad.com/library/wall-e-hand-1/details?folder_id=6981378)
 
 This work is submitted as part of Assignment 1 for the VIZA 626 course at Texas A&M University, under the instruction of Professor You-Jin Kim, during the Spring 2025 semester.
 
@@ -135,6 +141,8 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig6]: Final.png
 [images-fig7]: Fingers1.png
 [images-fig8]: Fingers2.png
+[images-fig9]: Crash.png
+[images-fig10]: ExplodedView.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
