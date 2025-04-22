@@ -68,6 +68,12 @@ The final result contains a mixture of color theory, comic art effects, the Dros
 
 Figure 5. Flora's Yonkoma Itteration 4; This iteration begins the process of adding Flora's flowers to her body. These flowers will then be duplicted and added to the subsequent smaller yonkoma. This process can sometimes be rather tedious.
 
+[![4-comma][images-fig6]](https://astroanimation.me)
+
+[![4-comma][images-fig7]](https://astroanimation.me)
+
+[![4-comma][images-fig8]](https://astroanimation.me)
+
 ## Conclusion
 In conclusion, the work “Flora’s Yonkoma” is a fun exploration into various art and comic styles used throughout artwork. While the piece itself doesn’t combine these aspects in a new or redefining way, it simply comments on how these aspects and themes can be used together effectively to drive a narrative.
 
@@ -115,11 +121,13 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [images-fig1]: Final.png
-[images-fig2]: fig2.JPG
-[images-fig3]: fig3.JPG
-[images-fig4]: fig4.JPG
-[images-fig5]: fig5.JPG
-[images-fig6]: images/fig6.png
+[images-fig2]: Concept.png
+[images-fig3]: WallECad.png
+[images-fig4]: FingerDesign.png
+[images-fig5]: Itteration2.png
+[images-fig6]: AllItterations.png
+[images-fig7]: Fingers1.png
+[images-fig8]: Fingers2.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
