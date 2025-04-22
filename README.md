@@ -88,7 +88,7 @@ In conclusion, I would love to further explore this prototype to see if it could
 
 Figure 9. Final model with all parts exploded
 
-[![4-comma][images-fig10]](https://astroanimation.me)
+[![4-comma][images-fig9]](https://astroanimation.me)
 
 Figure 10. Obligatory Maya Crash Screen
 
