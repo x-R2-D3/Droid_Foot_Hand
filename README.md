@@ -23,7 +23,7 @@
   <p align="center">
     The creation of a dual purpose appendage
     <br />
-    <a href="https://drive.google.com/file/d/1RCADC8EzU-FhASNdfd4ynTviInf4qRTo/view?usp=share_link"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/x-R2-D3/Droid_Foot_Hand/blob/main/Final_Project.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://astroanimation.me">Isabel Whelchel</a>
